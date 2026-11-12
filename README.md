@@ -1,5 +1,5 @@
 💫 About Me:
-Hi 👋 I'm Tanisha Kumari<br><br>🎓 Engineering student in **Information Technology** <br>💡 Passionate about technology, coding, and innovation  <br><br>---<br><br> 💻 Interests<br>- Coding & Programming Languages  <br>- Java Programming  <br>- Artificial Intelligence  <br>- IT & Software Projects  <br><br>---<br><br> 🔧 Skills<br>- **Programming Languages:** Java  <br>- **Web Technologies:** HTML, CSS, JavaScript  <br>- **Backend & Database:** Node.js,Express.js, MySQL,  <br><br>---<br><br> 📚 Currently Learning<br>- Web Development  <br>- Generative AI  <br><br>---<br><br> 🚀 Projects & Work<br>- Java and Python practice programs  <br>- Web development mini projects  <br>- AI & IT-based academic projects  <br><br>---<br><br>📫 Connect with Me<br>- **LinkedIn:**  https://www.linkedin.com/in/tanisha-shaw-542a4028a/<br>- **Email:** tanishashaw169@gmail.com <br><br>---<br><br>✨ *Always curious to learn, build, and grow in the tech world.*  <br>
+Hi 👋 I'm Tanisha Kumari<br><br>🎓 Engineering student in **Information Technology** <br>💡 Passionate about technology, coding, and innovation  <br><br><br><br> 💻 Interests<br>- Coding & Programming Languages  <br>- Java Programming  <br>- Artificial Intelligence  <br>- IT & Software Projects  <br><br><br><br> 🔧 Skills<br>- **Programming Languages:** Java  <br>- **Web Technologies:** HTML, CSS, JavaScript  <br>- **Backend & Database:** Node.js,Express.js, MySQL,  <br><br><br><br> 📚 Currently Learning<br>- Web Development  <br>- Generative AI  <br><br><br><br> 🚀 Projects & Work<br>- Java and Python practice programs  <br>- Web development mini projects  <br>- AI & IT-based academic projects  <br><br><br><br>📫 Connect with Me<br>- **LinkedIn:**  https://www.linkedin.com/in/tanisha-shaw-542a4028a/<br>- **Email:** tanishashaw169@gmail.com <br><br><br><br>✨ *Always curious to learn, build, and grow in the tech world.*  <br>
 
 
 🌐 Socials:
@@ -12,11 +12,14 @@ Hi 👋 I'm Tanisha Kumari<br><br>🎓 Engineering student in **Information Tech
 ![](https://nirzak-streak-stats.vercel.app/?user=tanisk23&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanisk23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tanisk23&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+
 ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tanisk23&limit=5&theme=dark&combine_all_yearly_contributions=true)
